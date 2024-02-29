@@ -2,6 +2,8 @@
 
 
 #API testing
+
+-----------------------------------------
 1.GET, PUT, POST, DELETE
 2. Headers
 3. Request payload/ Response payload
@@ -16,7 +18,6 @@
 12. Error code
 13. Response Entity 
 14. Msc on API
------------------------------------------
 
 
 1. Difference between interface and abstract class?
